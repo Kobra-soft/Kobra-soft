@@ -1,6 +1,10 @@
 ## Kobra-soft
 I'm a passionate **Full Stack Developer**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **React.js**, **TypeScript**, **Node.js** and **TailwindCSS** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 
+---
+
+#
+
 ### What I Do
 
 * **Frontend Development**: Crafting dynamic, responsive, and pixel-perfect web applications using **React.js**, **JavaScript**, and modern frameworks like **Next.js** and **Vue.js**.

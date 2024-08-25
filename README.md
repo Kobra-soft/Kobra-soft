@@ -24,13 +24,13 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 ### Languages and Tools
 
 <p align="center">
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="Android" title="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" style="vertical-align:top; margin:4px" />
+<img align="left" alt="Android" title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
 </p>
 
 <br>

@@ -7,8 +7,10 @@ I'm a passionate Full Stack Developer, with a strong focus on creating modern, r
 * Mobile Development: Building cross-platform mobile apps with React Native, ensuring smooth performance on both Android and iOS.
 * UI/UX Design: Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
 * API Integration: Connecting frontends to powerful backends with REST APIs and GraphQL.
+<br>
+<br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ForrestKnight?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kobra-soft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       
@@ -26,8 +28,8 @@ I'm a passionate Full Stack Developer, with a strong focus on creating modern, r
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<br><br><br>
+<br>
+<br>
 
 ### Stats
 

@@ -1,5 +1,12 @@
 ## Kobra-soft
-Overview here....!
+I'm a passionate Full Stack Developer, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of React.js, TypeScript, Node.js and TailwindCSS to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
+
+### What I Do
+
+* Frontend Development: Crafting dynamic, responsive, and pixel-perfect web applications using React.js, JavaScript, and modern frameworks like Next.js and Vue.js.
+* Mobile Development: Building cross-platform mobile apps with React Native, ensuring smooth performance on both Android and iOS.
+* UI/UX Design: Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
+* API Integration: Connecting frontends to powerful backends with REST APIs and GraphQL.
 
 <p align="left">
   <a href="https://github.com/ForrestKnight?tab=followers">

@@ -23,22 +23,17 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:0px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"     height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"             height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"         height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"           height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"   height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"           height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:0px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"    height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"                   height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"                       height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"                         height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"                 height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
 <br />
 </p>
-<br />
 
 ### Stats
 

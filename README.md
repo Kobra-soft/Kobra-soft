@@ -1,20 +1,19 @@
 ## Kobra-soft
-I'm a passionate **Full Stack Developer**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **React.js**, **TypeScript**, **Node.js** and **TailwindCSS** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
+I'm a passionate **_Full Stack Developer_**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **_React.js_**, **_TypeScript_**, **_Node.js_** and **_TailwindCSS_** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 #
 
 ### What I Do
 
-* **Frontend Development**: Crafting dynamic, responsive, and pixel-perfect web applications using **React.js**, **JavaScript**, and modern frameworks like **Next.js** and **Vue.js**.
+* **_Frontend Development_**: Crafting dynamic, responsive, and pixel-perfect web applications using **_React.js_**, **_JavaScript_**, and modern frameworks like **_Next.js_** and **_Vue.js_**.
   <br>
   <br>
-* **Mobile Development**: Building cross-platform mobile apps with React Native, ensuring smooth performance on both **Android** and **iOS**.
+* **_Mobile Development_**: Building cross-platform mobile apps with React Native, ensuring smooth performance on both **_Android_** and **_iOS_**.
   <br>
   <br>
-* **UI/UX Design**: Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
+* **_UI/UX Design_**: Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
   <br>
   <br>
-* **API Integration**: Connecting frontends to powerful backends with **REST APIs** and **GraphQL**.
-<br>
+* **_API Integration_**: Connecting frontends to powerful backends with **_REST APIs_** and **_GraphQL_**.
 
 <p align="center">
   <a href="https://github.com/Kobra-soft?tab=followers">
@@ -34,7 +33,6 @@ I'm a passionate **Full Stack Developer**, with a strong focus on creating moder
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br>
 <br>
 
 ### Stats

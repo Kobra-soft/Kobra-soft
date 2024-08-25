@@ -21,26 +21,6 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-### Languages and Tools
-
-<p align="center">
-<img align="left" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" style="vertical-align:top; margin:4px" />
-<img align="left" alt="Android" title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
-</p>
-
-<br>
-<br>
-<br>
-
-
-<br />
-
-
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:0px" alt="Android" title="Android" />
@@ -55,31 +35,9 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
 <br />
-
 </p>
-
-<br /> height="40" style="vertical-align:top; margin:4px">
-
-</p>
-
 <br />
 
 ### Stats
 
 ![](https://komarev.com/ghpvc/?username=kobra-soft)
-
-
-<!--
-**Kobra-soft/Kobra-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

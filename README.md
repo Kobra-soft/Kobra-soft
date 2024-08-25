@@ -36,17 +36,12 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 </p>
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&theme=transparent)
-
-![](https://komarev.com/ghpvc/?username=kobra-soft)
-
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=transparent">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=transparent">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=transparent" />
 </a>
 </div>
+![](https://komarev.com/ghpvc/?username=kobra-soft)

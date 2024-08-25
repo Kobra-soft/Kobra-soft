@@ -11,7 +11,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 * **_UI/UX Design_**: Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
   <br>
 * **_API Integration_**: Connecting frontends to powerful backends with **_REST APIs_** and **_GraphQL_**.
-<br>
+#
 
 <p align="center">
   <a href="https://github.com/Kobra-soft?tab=followers">
@@ -20,6 +20,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
   <a href="https://github.com/Kobra-soft?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+#
 
 ### Languages and Tools
 
@@ -33,7 +34,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 <br>
 <br>
 <br>
-
+#
 ### Stats
 
 ![](https://komarev.com/ghpvc/?username=kobra-soft)

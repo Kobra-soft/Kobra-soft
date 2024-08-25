@@ -29,7 +29,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"             height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg"    height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />

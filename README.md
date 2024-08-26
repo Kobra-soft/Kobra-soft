@@ -2,6 +2,8 @@
 I'm a passionate **Full Stack Developer**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **React.js**, **TypeScript**, **Node.js** and **TailwindCSS** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 #
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=768&height=300&lines=I'm+a+passionate+Full+Stack+Developer%2C+;with+a+strong+focus+on+creating+modern%2C;responsive+web+and+mobile+applications.;I+specialise+in+leveraging+the+power+of+;React.js%2C+TypeScript%2C+Node.js+and+TailwindCSS;to+build+clean%2C+user-friendly+interfaces+that+deliver;seamless+experiences+across+all+devices.)](https://git.io/typing-svg)
+
 <details>
   <summary><b>Frontend Development:</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.

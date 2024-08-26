@@ -58,10 +58,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <br />
 </p>
 
-## Tools:
-
-## Design & Prototyping:
-
 ## Stats
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=gotham">

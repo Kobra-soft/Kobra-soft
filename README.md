@@ -46,7 +46,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 ## Languages
 <div align="center">
-  Languages
   <img src="https://skillicons.dev/icons?i=ts"         hspace="3" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=js"         hspace="3" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react"      hspace="3" title="React"/>
@@ -70,15 +69,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=webpack"    hspace="3" title="Webpack"/> 
 </div>
 
-## Design Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma"      hspace="3" title="Figma"/>
-  <img src="https://skillicons.dev/icons?i=xd"         hspace="3" title="Adobe XD"/> 
-  <img src="https://skillicons.dev/icons?i=ai"         hspace="3" title="Adobe Illustrator"/> 
-  <img src="https://skillicons.dev/icons?i=ps"         hspace="3" title="Adobe Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=svg"        hspace="3" title="Scalable Vector Graphics"/>
-</div>
-
 ## APIs / Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql"    hspace="3" title="GraphQL"/>
@@ -88,6 +78,15 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Firebase"/> 
   <img src="https://skillicons.dev/icons?i=prisma"     hspace="3" title="Prisma"/> 
   <img src="https://skillicons.dev/icons?i=redux"      hspace="3" title="Redux"/> 
+</div>
+
+## Design Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma"      hspace="3" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=xd"         hspace="3" title="Adobe XD"/> 
+  <img src="https://skillicons.dev/icons?i=ai"         hspace="3" title="Adobe Illustrator"/> 
+  <img src="https://skillicons.dev/icons?i=ps"         hspace="3" title="Adobe Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=svg"        hspace="3" title="Scalable Vector Graphics"/>
 </div>
 
 ## Other Tools

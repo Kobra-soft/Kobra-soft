@@ -1,6 +1,6 @@
 <div align="center">
 <details>
-  <summary><b>Summary</b></summary>
+  <summary><b>Development Philosophy</b></summary>
 I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 </details>
 
@@ -15,22 +15,22 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <div align="center">
 <details>
   <summary><b>Frontend Development</b></summary>
-  Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
+  <i>Crafting dynamic, responsive and pixel-perfect web applications using </i><b>React.js</b>, <b>JavaScript</b> <i>and modern frameworks like </i><b>Next.js</b> <i>and </i><b>Vue.js</b>.
 </details>
 
 <details>
   <summary><b>Mobile Development</b></summary>
-  Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
+  <i>Building cross-platform mobile apps with React Native, ensuring smooth performance on both </i><b>Android</b> <i>and</i> <b>iOS</b>.
 </details>
 
 <details>
   <summary><b>UI/UX Design</b></summary>
-  Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
+  <i>Designing intuitive and contemporary interfaces, with a focus on </i><b>user experience</b>, <b>accessibility</b> <i>and sleek </i><b>animations</b>.
 </details>
 
 <details>
   <summary><b>API Integration</b></summary>
-  Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
+  <i>Connecting frontends to powerful backends with </i><b>REST APIs</b> <i>and </i><b>GraphQL</b>.
 </details>
 </div>
 

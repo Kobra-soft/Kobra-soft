@@ -91,4 +91,5 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=gotham">
   <img src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=gotham"" />
 </a>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kobra-soft&count_private=true&theme=react& alt="streak stats"/> 
 </div>

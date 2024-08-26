@@ -21,6 +21,10 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=kobra-soft)
+</p>
+
 ## Languages and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:0px" alt="Android" title="Android" />
@@ -44,5 +48,3 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=gotham"" />
 </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=kobra-soft)

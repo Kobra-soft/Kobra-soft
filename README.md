@@ -37,11 +37,11 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 ## Stats
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=vue">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=vue" />
+<a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=great-gatsby">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=great-gatsby"" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=vue">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=vue" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=great-gatsby"">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=great-gatsby"" />
 </a>
 </div>
 

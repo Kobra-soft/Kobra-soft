@@ -1,5 +1,5 @@
 ## Kobra-soft
-I'm a passionate **_Full Stack Developer_**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **_React.js_**, **_TypeScript_**, **_Node.js_** and **_TailwindCSS_** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
+I'm a passionate **Full Stack Developer**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **React.js**, **TypeScript**, **Node.js** and **TailwindCSS** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 #
 
 <details>
@@ -14,7 +14,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 <details>
   <summary><b>UI/UX Design</b></summary>
-  Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility and sleek animations.
+  Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>

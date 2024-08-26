@@ -9,22 +9,22 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 ## What I do
 
 <details>
-  <summary><b>Frontend Development:</b></summary>
+  <summary><b>Frontend Development</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 
 <details>
-  <summary><b>Mobile Development:</b></summary>
+  <summary><b>Mobile Development</b></summary>
   Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
 </details>
 
 <details>
-  <summary><b>UI/UX Design:</b></summary>
+  <summary><b>UI/UX Design</b></summary>
   Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>
-  <summary><b>API Integration:</b></summary>
+  <summary><b>API Integration</b></summary>
   Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 
@@ -44,7 +44,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   
 </div>
 
-## Languages:
+## Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"                height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
@@ -69,9 +69,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 ## Stats
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=gotham">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=gotham"" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=gotham"">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=gotham"" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=gotham"" />
 </a>
 </div>

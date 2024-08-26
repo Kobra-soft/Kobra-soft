@@ -77,8 +77,10 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/> 
   <img src="https://skillicons.dev/icons?i=docker" hspace="3" title="Docker"/> 
   <img src="https://skillicons.dev/icons?i=vscode" hspace="3" title="Visual Studio Code"/>
-  <img src="https://skillicons.dev/icons?i=vs" hspace="3" title="Visual Studio"/> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" hspace="3" title="Android Studio"/> 
+  <img src="https://skillicons.dev/icons?i=visualstudio" hspace="3" title="Visual Studio"/> 
+  <img src="https://skillicons.dev/icons?i=androidstudio" hspace="3" title="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=windows" hspace="3" title="Windows"/>
+  <img src="https://skillicons.dev/icons?i=apple" hspace="3" title="Apple"/>
   <img src="https://skillicons.dev/icons?i=stackoverflow" hspace="3" title="Stack Overflow"/> 
   <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>
 </div>

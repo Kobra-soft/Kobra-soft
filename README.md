@@ -59,6 +59,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=graphql" hspace="3" title="GraphQL"/>
   <img src="https://skillicons.dev/icons?i=nextjs" hspace="3" title="Next JS"/> 
   <img src="https://skillicons.dev/icons?i=vue" hspace="3" title="Vue"/> 
+  <img src="https://skillicons.dev/icons?i=vite" hspace="3" title="Vite"/> 
   <img src="https://skillicons.dev/icons?i=nodejs" hspace="3" title="Node JS"/> 
   <img src="https://skillicons.dev/icons?i=threejs" hspace="3" title="Three JS"/>
   <img src="https://skillicons.dev/icons?i=mongodb" hspace="3" title="MongoDB"/> 
@@ -69,14 +70,14 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=xd" hspace="3" title="Adobe XD"/> 
   <img src="https://skillicons.dev/icons?i=ai" hspace="3" title="Adobe Illustrator"/> 
   <img src="https://skillicons.dev/icons?i=ps" hspace="3" title="Adobe Photoshop"/> 
-  <img src="https://skillicons.dev/icons?i=svg" hspace="3" title="Scalable Vector Graphics"/>
   <img src="https://skillicons.dev/icons?i=less" hspace="3" title="LESS"/> 
   <img src="https://skillicons.dev/icons?i=sass" hspace="3" title="SASS"/> 
   <img src="https://skillicons.dev/icons?i=styledcomponents" hspace="3" title="Styled Components"/> 
   <img src="https://skillicons.dev/icons?i=materialui" hspace="3" title="Material UI"/> 
   <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/> 
   <img src="https://skillicons.dev/icons?i=docker" hspace="3" title="Docker"/> 
-  <img src="https://skillicons.dev/icons?i=vscode" hspace="3" title="Visual Studio Code"/> 
+  <img src="https://skillicons.dev/icons?i=vscode" hspace="3" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=vs" hspace="3" title="Visual Studio"/> 
   <img src="https://skillicons.dev/icons?i=androidstudio" hspace="3" title="Android Studio"/> 
   <img src="https://skillicons.dev/icons?i=stackoverflow" hspace="3" title="Stack Overflow"/> 
   <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>

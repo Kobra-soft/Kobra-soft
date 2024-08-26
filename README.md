@@ -3,23 +3,23 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 #
 
 <details>
-  <summary><b>Frontend Development --></b></summary>
-  Crafting dynamic, responsive, and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js<b/>.
+  <summary><b>Frontend Development </b></summary>
+  Crafting dynamic, responsive, and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js<b/>.
 </details>
 
 <details>
-  <summary><b>Mobile Development --></b></summary>
-  Building cross-platform mobile apps with React Native, ensuring smooth performance on both **_Android_** and **_iOS_**.
+  <summary><b>Mobile Development </b></summary>
+  Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
 </details>
 
 <details>
-  <summary><b>UI/UX Design --></b></summary>
+  <summary><b>UI/UX Design </summary>
   Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
 </details>
 
 <details>
-  <summary><b>API Integration --></b></summary>
-  Connecting frontends to powerful backends with **_REST APIs_** and **_GraphQL_**.
+  <summary><b>API Integration </b></summary>
+  Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 
 <p align="center">

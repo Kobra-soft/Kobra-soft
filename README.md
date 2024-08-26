@@ -1,6 +1,6 @@
 ## Kobra-soft
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=32&pause=100&color=1ADCCA&background=17000000&width=770&height=60&lines=Kobra-soft+I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=32&pause=100&color=1ADCCA&background=17000000&width=770&height=60&lines=Kobra-soft+I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;Kobra-soft+I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+)](https://git.io/typing-svg)
 
 <details>
   <summary><b>Summary</b></summary>

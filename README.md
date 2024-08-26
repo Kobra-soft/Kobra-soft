@@ -50,8 +50,8 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=js" hspace="3" title="JavaScript"/> 
   <img src="https://skillicons.dev/icons?i=react" hspace="3" title="React"/>
   <img src="https://skillicons.dev/icons?i=tailwind" hspace="3" title="Tailwind CSS"/> 
-  <img src="https://skillicons.dev/icons?i=java" hspace="3" title="Java"/> 
   <img src="https://skillicons.dev/icons?i=cs" hspace="3" title="C#"/> 
+  <img src="https://skillicons.dev/icons?i=java" hspace="3" title="Java"/> 
   <img src="https://skillicons.dev/icons?i=html" hspace="3" title="HTML 5"/> 
   <img src="https://skillicons.dev/icons?i=css" hspace="3" title="CSS 3"/>
   <img src="https://skillicons.dev/icons?i=jquery" hspace="3" title="jQuery"/> 
@@ -72,7 +72,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=ps" hspace="3" title="Adobe Photoshop"/> 
   <img src="https://skillicons.dev/icons?i=less" hspace="3" title="LESS"/> 
   <img src="https://skillicons.dev/icons?i=sass" hspace="3" title="SASS"/> 
-  <img src="https://skillicons.dev/icons?i=styledcomponents" hspace="3" title="Styled Components"/> 
   <img src="https://skillicons.dev/icons?i=materialui" hspace="3" title="Material UI"/> 
   <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/> 
   <img src="https://skillicons.dev/icons?i=docker" hspace="3" title="Docker"/> 

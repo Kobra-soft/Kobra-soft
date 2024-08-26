@@ -45,25 +45,44 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 </div>
 
 ## Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"                height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"             height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"                   height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"                       height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"                         height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"                 height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
-<br />
-</p>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" hspace="3" title="Html5"/>
-  <img src="https://skillicons.dev/icons?i=html" hspace="3" /> 
-  <img src="https://skillicons.dev/icons?i=html" hspace="3"/> 
-  <img src="https://skillicons.dev/icons?i=html" hspace="3"/> 
-  <img src="https://skillicons.dev/icons?i=html" hspace="3"/> 
+  <img src="https://skillicons.dev/icons?i=ts"         hspace="3" title="Html5"/>
+  <img src="https://skillicons.dev/icons?i=js"         hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=cs"         hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=html"       hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=css"        hspace="3" title="Html5"/>
+</div>
+
+## Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs"     hspace="3" title="Next JS"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"     hspace="3" title="Node JS"/> 
+  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
+</div>
+
+## Design Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma"      hspace="3" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=ai"         hspace="3" title="Adobe Illustrator"/> 
+  <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Html5"/> 
+</div>
+
+## APIs / Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=graphql"    hspace="3" title="GraphQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"    hspace="3" title="MongoDB"/> 
+  <img src="https://skillicons.dev/icons?i=mysql"      hspace="3" title="MySQL"/> 
+  <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Firebase"/> 
+</div>
+
+## Other Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jquery"     hspace="3" title="jQuery"/>
+  <img src="https://skillicons.dev/icons?i=materialui" hspace="3" title="Material UI"/> 
+  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=git"        hspace="3" title="Git"/> 
+  <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Html5"/> 
 </div>
 
 ## Stats

@@ -3,7 +3,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 #
 
 <details>
-  <summary>Frontend Development</summary>
+  <summary><b>Frontend Development</b></summary>
   Crafting dynamic, responsive, and pixel-perfect web applications using React.js, JavaScript and modern frameworks like Next.js and Vue.js.
 </details>
 

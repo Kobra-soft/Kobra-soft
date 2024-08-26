@@ -1,5 +1,7 @@
 ## Kobra-soft
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=32&pause=100&color=1ADCCA&background=17000000&width=770&height=60&lines=I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+
 <details>
   <summary><b>Summary</b></summary>
 I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices..

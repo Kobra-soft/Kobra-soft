@@ -4,7 +4,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 <details>
   <summary><b>Frontend Development </b></summary>
-  Crafting dynamic, responsive, and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js<b/>.
+  Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js<b/>.
 </details>
 
 <details>
@@ -14,13 +14,14 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 <details>
   <summary><b>UI/UX Design </summary>
-  Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility, and sleek animations.
+  Designing intuitive and contemporary interfaces, with a focus on user experience, accessibility and sleek animations.
 </details>
 
 <details>
   <summary><b>API Integration </b></summary>
   Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
+#
 
 <p align="center">
   <a href="https://github.com/Kobra-soft?tab=followers">

@@ -46,6 +46,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 ## Languages
 <div align="center">
+  Languages
   <img src="https://skillicons.dev/icons?i=ts"         hspace="3" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=js"         hspace="3" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react"      hspace="3" title="React"/>

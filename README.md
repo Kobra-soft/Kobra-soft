@@ -4,14 +4,12 @@
 I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 </details>
 
-</div>
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=33&pause=100&color=DC0663&background=17000000&width=770&height=60&lines=I'm+a+passionate+Full+Stack+Developer%2C;with+a+strong+focus+on++creating+modern%2C;responsive+web+and+mobile+applications.;I+specialise+in+leveraging+the+power+of+React.js%2C;TypeScript%2C++Node.js+and+TailwindCSS;to+build+clean%2C+user-friendly+interfaces+that+;deliver+seamless+experiences+across+all+devices." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=33&pause=100&color=DC0663&background=17000000&center=true&vCenter=true&width=770&height=60&lines=I'm+a+passionate+Full+Stack+Developer%2C;with+a+strong+focus+on++creating+modern%2C;responsive+web+and+mobile+applications.;I+specialise+in+leveraging+the+power+of+React.js%2C;TypeScript%2C++Node.js+and+TailwindCSS;to+build+clean%2C+user-friendly+interfaces+that+;deliver+seamless+experiences+across+all+devices." alt="Typing SVG">
   </a>
 </div>
-
+</div>
 
 <h2 align="center">Technical Proficiencies</h2>
 <div align="center">
@@ -35,6 +33,8 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 </div>
+
+</br>
 
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">
@@ -75,16 +75,19 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=stackoverflow" hspace="3" title="Stack Overflow"/> 
   <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>
 </div>
+</br>
 
 <h2 align="center">Development Metrics</h2>
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobra-soft&theme=gotham&card_width=475)](https://git.io/streak-stats)
+
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=gotham">
   <img src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=gotham&card_width=475" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobra-soft&theme=gotham&card_width=475)](https://git.io/streak-stats)
-
 </div>
+</br>
 
 #
 
@@ -95,7 +98,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <a href="https://github.com/Kobra-soft?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=kobra-soft)

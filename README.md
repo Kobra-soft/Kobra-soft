@@ -2,6 +2,11 @@
 I'm a passionate **_Full Stack Developer_**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **_React.js_**, **_TypeScript_**, **_Node.js_** and **_TailwindCSS_** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 #
 
+<details >
+  <summary>Hello</summary>
+  World!
+</details>
+
 ### What I Do
 
 * **_Frontend Development_**: Crafting dynamic, responsive, and pixel-perfect web applications using **_React.js_**, **_JavaScript_**, and modern frameworks like **_Next.js_** and **_Vue.js_**.
@@ -29,7 +34,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 ## Languages and Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:0px" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"                height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"             height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"               height="50" style="vertical-align:top; margin:8px" alt="Android" title="Android" />

@@ -7,8 +7,6 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+&size=32&pause=100&color=1ADCCA&background=17000000&width=770&height=60&lines=I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
 
-#
-
 <details>
   <summary><b>Frontend Development:</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.

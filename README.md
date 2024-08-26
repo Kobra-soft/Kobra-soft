@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer**, with a strong focus on creating moder
 
 <details>
   <summary><b>UI/UX Design</b></summary>
-  Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>b>, <b>accessibility</b> and sleek <b>animations</b>.
+  Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>

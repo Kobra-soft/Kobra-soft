@@ -30,21 +30,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 #
 
-<p align="center">
-  <a href="https://github.com/Kobra-soft?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kobra-soft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      
-  <a href="https://github.com/Kobra-soft?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=kobra-soft)
-  
-</div>
-
-## Languages
+## Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" hspace="3" title="TypeScript"/> 
   <img src="https://skillicons.dev/icons?i=js" hspace="3" title="JavaScript"/> 
@@ -75,15 +61,30 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=materialui" hspace="3" title="Material UI"/> 
   <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/> 
   <img src="https://skillicons.dev/icons?i=docker" hspace="3" title="Docker"/> 
+  <img src="https://skillicons.dev/icons?i=androidstudio" hspace="3" title="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=vscode" hspace="3" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=visualstudio" hspace="3" title="Visual Studio"/> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" hspace="3" title="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=windows" hspace="3" title="Windows"/>
   <img src="https://skillicons.dev/icons?i=apple" hspace="3" title="Apple"/>
   <img src="https://skillicons.dev/icons?i=stackoverflow" hspace="3" title="Stack Overflow"/> 
   <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>
 </div>
 
+#
+
+<p align="center">
+  <a href="https://github.com/Kobra-soft?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kobra-soft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      
+  <a href="https://github.com/Kobra-soft?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=kobra-soft)
+  
+</div>
 
 ## Stats
 <div align="center">

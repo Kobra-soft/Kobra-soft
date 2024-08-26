@@ -59,7 +59,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin:24px; title="Android"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin-right: 10px; title="Android"/>
   <img src="https://skillicons.dev/icons?i=html"/> 
   <img src="https://skillicons.dev/icons?i=html"/> 
   <img src="https://skillicons.dev/icons?i=html"/> 

@@ -36,12 +36,12 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 </p>
 
 ## Stats
-<div>
+<div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=transparent">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kobra-soft&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=transparent">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=transparent" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&hide=php&theme=transparent" />
 </a>
 </div>
 

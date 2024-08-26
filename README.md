@@ -4,7 +4,7 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
 
 <details>
   <summary><b>Frontend Development</b></summary>
-  Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js<b/>.
+  Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> & modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 
 <details>

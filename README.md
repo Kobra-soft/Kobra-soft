@@ -46,26 +46,36 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 ## Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts"         hspace="3" title="Html5"/>
-  <img src="https://skillicons.dev/icons?i=js"         hspace="3" title="Html5"/> 
-  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
-  <img src="https://skillicons.dev/icons?i=cs"         hspace="3" title="Html5"/> 
-  <img src="https://skillicons.dev/icons?i=html"       hspace="3" title="Html5"/> 
-  <img src="https://skillicons.dev/icons?i=css"        hspace="3" title="Html5"/>
+  <img src="https://skillicons.dev/icons?i=ts"         hspace="3" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js"         hspace="3" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react"      hspace="3" title="React"/>
+  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Java"/> 
+  <img src="https://skillicons.dev/icons?i=cs"         hspace="3" title="C#"/> 
+  <img src="https://skillicons.dev/icons?i=html"       hspace="3" title="HTML 5"/> 
+  <img src="https://skillicons.dev/icons?i=css"        hspace="3" title="CSS 3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind"   hspace="3" title="Tailwind CSS"/>
 </div>
 
 ## Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs"     hspace="3" title="Next JS"/>
+  <img src="https://skillicons.dev/icons?i=threejs"    hspace="3" title="Three JS"/>
+  <img src="https://skillicons.dev/icons?i=vite"       hspace="3" title="Vite"/>
+  <img src="https://skillicons.dev/icons?i=vue"        hspace="3" title="Vue"/>
   <img src="https://skillicons.dev/icons?i=nodejs"     hspace="3" title="Node JS"/> 
-  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=npm"        hspace="3" title="Node Package Manager"/> 
+  <img src="https://skillicons.dev/icons?i=yarn"       hspace="3" title="Yarn"/> 
+  <img src="https://skillicons.dev/icons?i=babel"      hspace="3" title="Babel"/> 
+  <img src="https://skillicons.dev/icons?i=webpack"    hspace="3" title="Webpack"/> 
 </div>
 
 ## Design Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma"      hspace="3" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=xd"         hspace="3" title="Adobe XD"/> 
   <img src="https://skillicons.dev/icons?i=ai"         hspace="3" title="Adobe Illustrator"/> 
-  <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=ps"         hspace="3" title="Adobe Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=svg"        hspace="3" title="Scalable Vector Graphics"/>
 </div>
 
 ## APIs / Databases
@@ -73,16 +83,25 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
   <img src="https://skillicons.dev/icons?i=graphql"    hspace="3" title="GraphQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb"    hspace="3" title="MongoDB"/> 
   <img src="https://skillicons.dev/icons?i=mysql"      hspace="3" title="MySQL"/> 
+  <img src="https://skillicons.dev/icons?i=sqlite"     hspace="3" title="SQLite"/> 
   <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Firebase"/> 
+  <img src="https://skillicons.dev/icons?i=prisma"     hspace="3" title="Prisma"/> 
+  <img src="https://skillicons.dev/icons?i=redux"      hspace="3" title="Redux"/> 
 </div>
 
 ## Other Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=jquery"     hspace="3" title="jQuery"/>
-  <img src="https://skillicons.dev/icons?i=materialui" hspace="3" title="Material UI"/> 
-  <img src="https://skillicons.dev/icons?i=java"       hspace="3" title="Html5"/> 
-  <img src="https://skillicons.dev/icons?i=git"        hspace="3" title="Git"/> 
-  <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Html5"/> 
+  <img src="https://skillicons.dev/icons?i=jquery"            hspace="3" title="jQuery"/>
+  <img src="https://skillicons.dev/icons?i=less"              hspace="3" title="LESS"/>
+  <img src="https://skillicons.dev/icons?i=sass"              hspace="3" title="SASS"/>
+  <img src="https://skillicons.dev/icons?i=styledcomponents"  hspace="3" title="Styled Components"/>
+  <img src="https://skillicons.dev/icons?i=materialui"        hspace="3" title="Material UI"/> 
+  <img src="https://skillicons.dev/icons?i=aws"               hspace="3" title="AWS"/> 
+  <img src="https://skillicons.dev/icons?i=docker"            hspace="3" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=vscode"            hspace="3" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio"     hspace="3" title="Android Studio"/> 
+  <img src="https://skillicons.dev/icons?i=stackoverflow"     hspace="3" title="Stack Overflow"/>
+  <img src="https://skillicons.dev/icons?i=vercel"            hspace="3" title="Vercel"/>
 </div>
 
 ## Stats

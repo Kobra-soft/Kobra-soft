@@ -21,9 +21,11 @@ I'm a passionate **_Full Stack Developer_**, with a strong focus on creating mod
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<p align="center">
+<div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=kobra-soft)
-</p>
+  
+</div>
 
 ## Languages and Tools:
 <p align="center">

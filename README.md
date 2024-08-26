@@ -58,6 +58,14 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <br />
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=html"/> 
+  <img src="https://skillicons.dev/icons?i=html"/> 
+  <img src="https://skillicons.dev/icons?i=html"/> 
+  <img src="https://skillicons.dev/icons?i=html"/> 
+</div>
+
 ## Stats
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=kobra-soft&theme=gotham">

@@ -72,12 +72,12 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 ## APIs / Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql"    hspace="3" title="GraphQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb"    hspace="3" title="MongoDB"/> 
-  <img src="https://skillicons.dev/icons?i=mysql"      hspace="3" title="MySQL"/> 
-  <img src="https://skillicons.dev/icons?i=sqlite"     hspace="3" title="SQLite"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb"    hspace="3" title="MongoDB"/>  
   <img src="https://skillicons.dev/icons?i=firebase"   hspace="3" title="Firebase"/> 
   <img src="https://skillicons.dev/icons?i=prisma"     hspace="3" title="Prisma"/> 
   <img src="https://skillicons.dev/icons?i=redux"      hspace="3" title="Redux"/> 
+  <img src="https://skillicons.dev/icons?i=mysql"      hspace="3" title="MySQL"/> 
+  <img src="https://skillicons.dev/icons?i=sqlite"     hspace="3" title="SQLite"/>
 </div>
 
 ## Design Tools

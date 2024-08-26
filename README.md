@@ -5,7 +5,7 @@
 I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices..
 </details>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=1DF7E3&background=0D1117&multiline=true&width=770&height=300&lines=I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;creating+modern%2C+responsive+web+and+mobile+applications.;I+specialise+in+leveraging+the+power+of+React.js%2C+TypeScript%2C+;Node.js+and+TailwindCSS+to+build+clean%2C+user-friendly+interfaces;+that+deliver+seamless+experiences+across+all+devices.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+&size=34&pause=100&color=1DF7E3&background=17000000&width=770&height=300&lines=I'm+a+passionate+Full+Stack+Developer%2C+with+a+strong+focus+on+;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
 
 #
 

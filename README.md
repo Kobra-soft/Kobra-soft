@@ -2,14 +2,14 @@
 I'm a passionate **_Full Stack Developer_**, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of **_React.js_**, **_TypeScript_**, **_Node.js_** and **_TailwindCSS_** to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 #
 
-<details open>
-  <summary>Frontend Development:</summary>
-  Crafting dynamic, responsive, and pixel-perfect web applications using **_React.js_**, **_JavaScript_**, and modern frameworks like **_Next.js_** and **_Vue.js_**.
+<details>
+  <summary>Frontend Development</summary>
+  Crafting dynamic, responsive, and pixel-perfect web applications using React.js, JavaScript and modern frameworks like Next.js and Vue.js.
 </details>
 
 ### What I Do
 
-* **_Frontend Development_**: Crafting dynamic, responsive, and pixel-perfect web applications using **_React.js_**, **_JavaScript_**, and modern frameworks like **_Next.js_** and **_Vue.js_**.
+* **_Frontend Development_**: Crafting dynamic, responsive, and pixel-perfect web applications using **_React.js_**, **_JavaScript_** and modern frameworks like **_Next.js_** and **_Vue.js_**.
   <br>
 * **_Mobile Development_**: Building cross-platform mobile apps with React Native, ensuring smooth performance on both **_Android_** and **_iOS_**.
   <br>

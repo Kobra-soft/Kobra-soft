@@ -6,7 +6,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=33&pause=100&color=DC0663&background=17000000&width=770&height=60&lines=I'm+a+passionate+Full+Stack+Developer%2C;with+a+strong+focus+on++creating+modern%2C;responsive+web+and+mobile+applications.;I+specialise+in+leveraging+the+power+of+React.js%2C;TypeScript%2C++Node.js+and+TailwindCSS;to+build+clean%2C+user-friendly+interfaces+that+;deliver+seamless+experiences+across+all+devices." alt="Typing SVG">
   </a>

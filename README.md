@@ -11,6 +11,13 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 </div>
 </div>
 
+<div align="center">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+</div>
+
 <h2 align="center">Technical Proficiencies</h2>
 <div align="center">
 <details>
@@ -87,19 +94,15 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 </a>
 
 </div>
-</br>
 
 #
 
 <p align="center">
-  <a href="https://github.com/Kobra-soft?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kobra-soft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      
-  <a href="https://github.com/Kobra-soft?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kobra-soft?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
 </p>
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=kobra-soft)
   
 </div>
+

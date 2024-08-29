@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" >
 <details>
   <summary><b>Development Philosophy</b></summary>
-I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
+<I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 </details>
 
 <div align="center">
@@ -21,7 +21,7 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <h2 align="center">Technical Proficiencies</h2>
 <div align="center">
 <details>
-  <summary><b>Frontend Development</b></summary>
+  <summary"><b>Frontend Development</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 

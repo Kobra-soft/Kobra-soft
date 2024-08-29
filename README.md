@@ -22,22 +22,22 @@ I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating mo
 <div align="center">
 <details>
   <summary><b>Frontend Development</b></summary>
-  <i>Crafting dynamic, responsive and pixel-perfect web applications using </i><b>React.js</b>, <b>JavaScript</b> <i>and modern frameworks like </i><b>Next.js</b> <i>and </i><b>Vue.js</b>.
+  Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 
 <details>
   <summary><b>Mobile Development</b></summary>
-  <i>Building cross-platform mobile apps with React Native, ensuring smooth performance on both </i><b>Android</b> <i>and</i> <b>iOS</b>.
+  Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
 </details>
 
 <details>
   <summary><b>UI/UX Design</b></summary>
-  <i>Designing intuitive and contemporary interfaces, with a focus on </i><b>user experience</b>, <b>accessibility</b> <i>and sleek </i><b>animations</b>.
+  Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>
   <summary><b>API Integration</b></summary>
-  <i>Connecting frontends to powerful backends with </i><b>REST APIs</b> <i>and </i><b>GraphQL</b>.
+  Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 </div>
 

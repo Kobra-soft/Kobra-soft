@@ -88,12 +88,10 @@
 <div align="center">
 
 [![GitHub Streak-Dark](https://streak-stats.demolab.com?user=kobra-soft&theme=gotham&card_width=467)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-Light](https://streak-stats.demolab.com?user=kobra-soft&theme=swift&card_width=467&background=FFFFFF)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak-Light](https://streak-stats.demolab.com?user=kobra-soft&theme=swift&card_width=467&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Kobra-soft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=gotham&#gh-dark-mode-only)](https://github.com/kobra-soft/github-readme-stats#gh-dark-mode-only)
-[![Kobra-soft GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=swift&hide_border=true&background=FFFFFF&#gh-light-mode-only)](https://github.com/kobra-soft/github-readme-stats#gh-light-mode-only)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=swift&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
+[![Kobra-soft GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=swift&hide_border=true&#gh-light-mode-only)](https://github.com/kobra-soft/github-readme-stats#gh-light-mode-only)
 
 </div>
 

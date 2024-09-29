@@ -93,6 +93,9 @@
 [![Kobra-soft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=react&#gh-dark-mode-only)](https://github.com/Kobra-soft?tab=repositories#gh-dark-mode-only)
 [![Kobra-soft GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=swift&hide_border=false&#gh-light-mode-only)](https://github.com/Kobra-soft?tab=repositories#gh-light-mode-only)
 
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&layout=donut&theme=react&#gh-dark-mode-only)](https://github.com/Kobra-soft/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&layout=donut&theme=swift&hide_border=false&#gh-light-mode-only)](https://github.com/Kobra-soft/github-readme-stats#gh-light-mode-only)
+
 </div>
 
 #

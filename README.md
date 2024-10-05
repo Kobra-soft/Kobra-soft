@@ -24,28 +24,26 @@
 <h2 align="center">Technical Proficiencies</h2>
 <div align="left">
 <details>
-  <summary><h2><b> Frontend Development<b></h2></summary>
+  <summary><b> Frontend Development</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 
 <details>
-  <summary><h2> Mobile Development</h2></summary>
+  <summary><b> Mobile Development</b></summary>
   Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
 </details>
 
 <details>
-  <summary><h2> UI/UX Design</h2></summary>
+  <summary><b> UI/UX Design</b></summary>
   Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>
-  <summary><h2> API Integration</h2></summary>
+  <summary><b> API Integration</b></summary>
   Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 </div>
 
-<br>
-<br>
 
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">

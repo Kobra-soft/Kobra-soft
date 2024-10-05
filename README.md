@@ -24,7 +24,7 @@
 <h2 align="center">Technical Proficiencies</h2>
 <div align="left">
 <details>
-  <summary><b><h2> Frontend Development</b></h2></summary>
+  <summary><b><h3> Frontend Development</b></h3></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 

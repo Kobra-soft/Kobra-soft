@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="left" >
 <details>
   <summary><b> Development Philosophy</b></summary>
 <I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center">Technical Proficiencies</h2>
-<div align="center">
+<div align="left">
 <details>
   <summary><b> Frontend Development</b></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
@@ -95,6 +95,9 @@
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&layout=donut&theme=react&#gh-dark-mode-only)](https://github.com/Kobra-soft/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft&layout=donut&theme=swift&hide_border=false&#gh-light-mode-only)](https://github.com/Kobra-soft/github-readme-stats#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 </div>
 

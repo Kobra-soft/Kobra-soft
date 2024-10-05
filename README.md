@@ -1,6 +1,6 @@
 <div align="left" >
 <details>
-  <summary><b> Development Philosophy</b></summary>
+  <summary><b><h2> Development Philosophy</b></h2></summary>
 <I'm a passionate <b>Full Stack Developer</b>, with a strong focus on creating modern, responsive web and mobile applications. I specialise in leveraging the power of <b>React.js</b>, <b>TypeScript</b>, <b>Node.js</b> and <b>TailwindCSS</b> to build clean, user-friendly interfaces that deliver seamless experiences across all devices.
 </details>
 
@@ -15,33 +15,37 @@
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<br>
+<br>
   
 </div>
 
 <h2 align="center">Technical Proficiencies</h2>
 <div align="left">
 <details>
-  <summary><b> Frontend Development</b></summary>
+  <summary><b><h2> Frontend Development</b></h2></summary>
   Crafting dynamic, responsive and pixel-perfect web applications using <b>React.js</b>, <b>JavaScript</b> and modern frameworks like <b>Next.js</b> and <b>Vue.js</b>.
 </details>
 
 <details>
-  <summary><b> Mobile Development</b></summary>
+  <summary><b><h2> Mobile Development</b></h2></summary>
   Building cross-platform mobile apps with React Native, ensuring smooth performance on both <b>Android</b> and <b>iOS</b>.
 </details>
 
 <details>
-  <summary><b> UI/UX Design</b></summary>
+  <summary><b><h2> UI/UX Design</b></h2></summary>
   Designing intuitive and contemporary interfaces, with a focus on <b>user experience</b>, <b>accessibility</b> and sleek <b>animations</b>.
 </details>
 
 <details>
-  <summary><b> API Integration</b></summary>
+  <summary><b><h2> API Integration</b></h2></summary>
   Connecting frontends to powerful backends with <b>REST APIs</b> and <b>GraphQL</b>.
 </details>
 </div>
 
-</br>
+<br>
+<br>
 
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">
@@ -82,7 +86,9 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" hspace="3" title="Stack Overflow"/> 
   <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>
 </div>
-</br>
+
+<br>
+<br>
 
 <h2 align="center">Development Metrics</h2>
 <div align="center">
@@ -109,6 +115,5 @@
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=kobra-soft)
-  
-</div>
 
+</div>

@@ -92,6 +92,9 @@
 <h2 align="center">Development Metrics</h2>
 <div align="center">
 
+[![Kobra-soft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=react&#gh-dark-mode-only)](https://github.com/Kobra-soft?tab=repositories#gh-dark-mode-only)
+[![Kobra-soft GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kobra-soft&show_icons=true&theme=swift&hide_border=false&#gh-light-mode-only)](https://github.com/Kobra-soft?tab=repositories#gh-light-mode-only)
+
 [![GitHub Streak-Dark](https://streak-stats.demolab.com?user=kobra-soft&theme=react&card_width=467)](https://github.com/Kobra-soft?tab=repositories#gh-dark-mode-only)
 [![GitHub Streak-Light](https://streak-stats.demolab.com?user=kobra-soft&theme=swift&card_width=467&hide_border=false)](https://github.com/Kobra-soft?tab=repositories#gh-light-mode-only)
 

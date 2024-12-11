@@ -92,7 +92,7 @@
 <h2 align="center">Development Metrics</h2>
 <div align="center">
 
-[![Kobra-soft GitHub stats](https://github-readme-stats.vercel.app/api?username=kobra-soft)](https://github.com/kobra-soft/github-readme-stats)
+[![Koba-soft GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobra-soft)](https://github.com/Kobra-soft/github-readme-stats)
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-soft)](https://github.com/Kobra-soft/github-readme-stats)
 
